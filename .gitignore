@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+U_jester.csv
+Vt_jester.csv
+jester_data_40jokes_19181users.npy
+.vscode/settings.json
